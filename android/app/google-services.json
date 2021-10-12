@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874122498863",
+    "project_id": "bbcnews-bf756",
+    "storage_bucket": "bbcnews-bf756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874122498863:android:1ffb693be154b9655747da",
+        "android_client_info": {
+          "package_name": "com.example.bbcnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874122498863-8lqo8m5qpv1fi989m7vvqq5b04jssbnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80Vsx1VldbKfduSp40rkTJXQlPH24gVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874122498863-8lqo8m5qpv1fi989m7vvqq5b04jssbnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
